@@ -1,9 +1,9 @@
 # **EXPERIMENT 3 – Conditional Logic in PostgreSQL**
 
-**Student Name:** Aryan Dahiya
-**UID:** 24BAI70697
+**Student Name:** Shreyansh Gupta
+**UID:** 24BAI70658
 **Branch:** AIT-CSE (AIML)
-**Section/Group:** 24AIT_KRG2
+**Section/Group:** 24AIT_KRG-1/G2
 **Semester:** 4
 **Subject:** Database Management System
 **Subject Code:** 24CSH-298
