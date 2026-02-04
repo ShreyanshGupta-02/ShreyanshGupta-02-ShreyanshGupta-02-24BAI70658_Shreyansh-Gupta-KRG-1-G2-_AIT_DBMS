@@ -66,6 +66,9 @@ The aim of this experiment is to practice writing SQL SELECT statements with fil
 ### Output: Final output in descending order of average salary
 <img width="1127" height="438" alt="Screenshot 2026-01-26 092005" src="https://github.com/user-attachments/assets/06942367-cef4-40b7-96df-abe6245d2cf9" />
 
+### Output: Use of aggregate functions like COUNT(), SUM(), AVG(), MIN(), and MAX()
+<img width="1123" height="542" alt="Screenshot 2026-02-04 224810" src="https://github.com/user-attachments/assets/03f745a0-3640-418a-9dd0-f3b40c8c7f64" />
+
 
 
 ## Learning Outcome
